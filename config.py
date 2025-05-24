@@ -1,8 +1,8 @@
 # Конфигурация бота
-BOT_TOKEN = "your_bot_token"  # Токен основного бота
+BOT_TOKEN = "8092436444:AAElHAk3l13t1lRESckbWnbmBqz9P2GGVWg"  # Токен основного бота
 PAYOUT_BOT_TOKEN = "your_payout_bot_token"  # Токен бота для выплат
 DATABASE_PATH = "bot.db"  # Путь к базе данных
-ADMIN_IDS = [123456789]  # ID администраторов (замените)
+ADMIN_IDS = [7887610881]  # ID администраторов (замените)
 REF_CODE = "ABC123"  # Дефолтный реферальный код
 MAX_NUMBERS_PER_USER = 5  # Максимум номеров на пользователя
 
